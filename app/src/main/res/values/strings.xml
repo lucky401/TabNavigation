@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabNavigation</string>
+    <string name="first_fragment">Hello blank fragment</string>
+    <string name="second_fragment">Hello blank fragment</string>
+</resources>
